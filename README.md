@@ -1,2 +1,0 @@
-# LiterAlura
-Reto AluraONE: LiterAlura
